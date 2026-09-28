@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://b.hvjrdbz.cn/sitemap.xml
